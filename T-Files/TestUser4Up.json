@@ -1,0 +1,16 @@
+[
+    {
+        "userID": "1BzJzha9cckol76OHXyw",
+        "patientID": "91040",
+        "patientName": "Test-User",
+        "patientDOB": "1980-01-01",
+        "patientGender": "female",
+        "patientZipCode": "88597",
+        "providers": "eCW",
+        "providerURL": "https://example2.com",
+        "treatmentDate": "2024-06-21",
+        "startTime": "13:20:00",
+        "endTime": "14:21:00",
+        "features": "feature2"
+    }
+]
